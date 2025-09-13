@@ -19,7 +19,6 @@ The project uses the following main tables:
 
 # Analysis
 some sample code snippets
-Resolved column encoding issues caused by import errors:
 ```sql
 ALTER TABLE customers
 CHANGE COLUMN `ï»¿CustomerID` `CustomerID` INT;
