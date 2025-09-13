@@ -16,8 +16,9 @@ The project uses the following main tables:
 - `cards` – Card-related information
 - `loans` – Loan details
 - `transactions` – Transactional history
-- 
-# Data Cleaning
+
+# Analysis
+some sample code snippets
 Resolved column encoding issues caused by import errors:
 ```sql
 ALTER TABLE customers
